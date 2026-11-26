@@ -36,7 +36,7 @@ I've been working in Quality Assurance since **2008**, evolving from manual test
 
 - 🏗️ **Quality Engineering & SDET Leadership:** Building automation frameworks from scratch, defining risk-based testing strategies, integrating parallel test execution into CI/CD, and mentoring QA teams.
 - 🤖 **AI-Assisted QA:** Applying LLM-based tools and custom AI agents to test generation, test data preparation, log analysis, and internal QA productivity helpers.
-- 🛠️ **Local-First Side Projects:** Outside of work, I enjoy building lightweight, privacy-friendly personal tools in **Go**, **TypeScript**, and **Python** — plus maintaining my [Second Brain](https://docs.slavaqa.pp.ua/) and [blog](https://slavaqa.pp.ua/).
+- 🛠️ **Local-First Side Projects:** Outside of work, I enjoy building lightweight, privacy-friendly personal tools in **Go**, **TypeScript**, and **Python** — plus maintaining my [public "second brain"](https://docs.slavaqa.pp.ua/) and [personal blog](https://slavaqa.pp.ua/).
 - 🛡️ **Security-Minded Background:** B.S. in Cybersecurity (KPI) — while my day-to-day focus is QA automation, I keep a light, ongoing interest in cybersecurity and bring a privacy-first mindset to software quality and personal tooling.
 
 ---
