@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://slavaqa.pp.ua/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-slavaqa.pp.ua-0A66C2?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-slavaqa.pp.ua-0F766E?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" />
   </a>
   <a href="https://docs.slavaqa.pp.ua/" target="_blank">
     <img src="https://img.shields.io/badge/Second_Brain-docs.slavaqa.pp.ua-4A5568?style=for-the-badge&logo=obsidian&logoColor=white" alt="Second Brain" />
