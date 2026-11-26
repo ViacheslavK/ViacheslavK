@@ -22,5 +22,7 @@ jobs:
           feed_list: "https://slavaqa.pp.ua/index.xml"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
-          template: "- [$title]($url) ($date)"
+          template: "- [$title]($url) — *$date*$newline"
+          tag_post_pre_newline: true
+          enable_keepalive: false
           commit_message: "chore: update recent blog posts"
