@@ -82,13 +82,7 @@ I've been working in Quality Assurance since **2008**, evolving from manual test
 
 ### Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Hello Migration](https://slavaqa.pp.ua/posts/2023/02/05/hello-migration/) (2023-02-05)
-- [Testing is a process (минулому дню тестувальника присвячується)](https://slavaqa.pp.ua/posts/2017/09/10/testing-is-a-process/) (2017-09-10)
-- [Перше занурення у тестування – з чого почати?](https://slavaqa.pp.ua/posts/2017/05/31/first-steps-in-testing-what-to-do/) (2017-05-31)
-- [Вести блог про тестування. Складно?](https://slavaqa.pp.ua/posts/2016/09/27/difficulties-of-blog-about-testing/) (2016-09-27)
-- [Робота у розподіленій команді](https://slavaqa.pp.ua/posts/2016/09/07/work-in-a-distributed-team/) (2016-09-07)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Hello Migration](https://slavaqa.pp.ua/posts/2023/02/05/hello-migration/) (2023-02-05)- [Testing is a process &lpar;минулому дню тестувальника присвячується&rpar;](https://slavaqa.pp.ua/posts/2017/09/10/testing-is-a-process/) (2017-09-10)- [Перше занурення у тестування – з чого почати?](https://slavaqa.pp.ua/posts/2017/05/31/first-steps-in-testing-what-to-do/) (2017-05-31)- [Вести блог про тестування. Складно?](https://slavaqa.pp.ua/posts/2016/09/27/difficulties-of-blog-about-testing/) (2016-09-27)- [Робота у розподіленій команді](https://slavaqa.pp.ua/posts/2016/09/07/work-in-a-distributed-team/) (2016-09-07)<!-- BLOG-POST-LIST:END -->
 
 ---
 
